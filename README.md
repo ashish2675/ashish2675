@@ -28,7 +28,7 @@
 ## 📊 Github stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish2675&show_icons=true&theme=merko&locale=en&layout=compact" alt="ashish2675" /></p>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish2675&show_icons=true&theme=merko&locale=en&layout=compact" alt="ashish2675" /></p>
 <br>
 
