@@ -36,7 +36,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ashish's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ashish2675&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br>
 
-## Holopin Badges
+## 🌆Holopin Badges
 
 <p><img align="left" src="https://www.holopin.me/ashishjose" /></p>
 
