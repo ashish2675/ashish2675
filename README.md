@@ -51,6 +51,7 @@
 <p><img align="left" src="https://www.holopin.me/ashishjose" /></p>
 <br>
 
+<br>
  <h2 align="center">📫Connect with me</h2>
 
 <br>
