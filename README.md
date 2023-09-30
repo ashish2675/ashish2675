@@ -24,6 +24,12 @@
 <br>
 <!-- [![@ashishjose's Holopin board](https://holopin.me/ashishjose)](https://holopin.io/@ashishjose) -->
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2043%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.8%20million%20lines%20of%20code-blue)
+
+
 ## 🔥 Streak stats
 
 
@@ -43,8 +49,10 @@
 ## 🌆Holopin Badges
 
 <p><img align="left" src="https://www.holopin.me/ashishjose" /></p>
+<br>
 
  <h2 align="center">📫Connect with me</h2>
+
 <br>
 <p align="center">
 <a href ="https://linkedin.com/in/ashishjose2675" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="ashishjose2675"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
