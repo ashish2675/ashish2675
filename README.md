@@ -30,11 +30,12 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.8%20million%20lines%20of%20code-blue)
 
 
-## 🔥 Streak stats
+## 🔥 Streak Stats
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2675&theme=highcontrast" alt="ashish2675" /></p>
-<br>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2675&theme=highcontrast" alt="ashish2675" /></p>-->
+<p><img align = "center" src="https://streak-stats.demolab.com/?user=ashish2675&theme=tokyonight-duo" alt="GitHub Streak" /></p>
+
 
 ## 📊 Github stats
 
